@@ -121,10 +121,7 @@ Plusieurs variables ont été créées pour faciliter l’analyse :
 ## 3️⃣ Fusion des tables
 
 Les différentes tables ont été fusionnées afin de créer une table analytique unique :
-
-```python
-ecommerce_df
-```
+ecomerce_final
 
 Cette table contient :
 
